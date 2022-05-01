@@ -1,0 +1,8 @@
+{
+  "id": "alloy-shop",
+  "name": "AlloyShop",
+  "version": "1.0.0",
+  "description": "Chest shop system with sign-based creation, economy integration, and shop protection",
+  "authors": ["AlloyMC"],
+  "entrypoint": "net.alloymc.shop.AlloyShopMod"
+}
